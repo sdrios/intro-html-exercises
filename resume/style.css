@@ -1,0 +1,32 @@
+body{
+    background-color: #8CACC7;
+}
+
+#whole{
+    border-style:solid;
+    border-radius: 5px;
+    width: 50%;
+    margin: auto;
+    background-color:#D9E5F0;
+    font-family: 'Raleway', sans-serif;
+    text-align:center;
+    margin-top:75px;
+}
+#intro {
+
+    margin: auto;
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+ul{
+    text-align:left;
+    display:inline-block;
+}
+
+footer{
+    margin: auto;
+    text-align: center;
+}
